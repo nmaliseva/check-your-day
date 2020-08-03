@@ -45,7 +45,9 @@ function make_note($user_name, $user_height, $current_date, $size_waist, $size_s
 
 make_note("test01", 172, "29/10/2019", 85, 102, 109, 82.2) . "\t";
 make_note("test02", 172, "29/10/2019", 85, 102, 109, 82.2) . "\t";
-make_note("test03", 172, "05/10/2019", 85, 94, 104, 81,3) . "\t";
+make_note("test03", 172, "05/10/2019", 85, 94, 104, 81.3) . "\t";
+make_note("test04", 172, "06/07/2020", 73, 83, 97, 76.2) . "\t";
+make_note("test05", 172, "28/07/2020", 70, 79, 95, 74.7) . "\t";
 
     
     
